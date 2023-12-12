@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wissem ELARBI</h1>
 <h3 align="center">A passionate full stack & business intelligence developer from Tunisia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 - 💬 Ask me about **Ask me about BI technologies and web tools**
