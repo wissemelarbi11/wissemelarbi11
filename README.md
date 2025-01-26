@@ -1,67 +1,92 @@
-<h1 align="center">Hi 👋, I'm Wissem ELARBI</h1>
-<h3 align="center">A passionate Full Stack & Business Intelligence Engineer from Tunisia</h3>
+<h1 align="center">👋 Hi, I'm Wissem ELARBI</h1>
+<h3 align="center">Full Stack & Business Intelligence Engineer | Data Enthusiast | Frontend Developer</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
----
-
-- 💬 **Ask me about BI technologies, data visualization tools, and web development.**
-
-- 📫 **How to reach me:** [wissem.elarbi@esprit.tn](mailto:wissem.elarbi@esprit.tn)
-
-- ⚡ **Fun fact:** *I'm lazy sometimes, but when it's time to work, there's nothing else but full focus!*
-
----
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/wissem-elarbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wissem-elarbi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/wissem-elarbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wissem elarbi" height="30" width="40" /></a>
-<a href="https://kaggle.com/wissemelarbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="wissem elarbi" height="30" width="40" /></a>
-<a href="https://fb.com/wissem.elarbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wissem elarbi" height="30" width="40" /></a>
-<a href="https://instagram.com/wess_elarbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wess_elarbi" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" alt="coding-gif">
 </p>
 
 ---
 
-<h3 align="left">🛠️ Technologies and Tools:</h3>
+### 🎯 **About Me**
 
-#### 📊 **Business Intelligence & Data Analytics**  
-<p align="left">
-<a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40" /></a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40" /></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /></a>
-<a href="https://hive.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Apache Hive" width="40" height="40" /></a>
-<a href="https://www.elastic.co/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40" /></a>
-<a href="https://www.grafana.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40" /></a>
-</p>
+- 🚀 **Passionate about creating data-driven solutions and intuitive web applications.**
+- 🎓 Pursuing a Master's degree in Business Intelligence Engineering (Graduation: 2024).
+- 💼 Experienced in **Business Intelligence**, **ETL**, and **Frontend Development**.
+- ⚡ Fun fact: I thrive on coffee and chess matches when I’m not coding!
 
-#### 📂 **ETL, Data Processing & Cloud**  
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" /></a>
-<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="40" height="40" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /></a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure" width="40" height="40" /></a>
-</p>
+---
 
-#### 🌐 **Frontend & Web Development**  
-<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>
+### 🌐 **Let's Connect**
+
+<p align="center">
+  <a href="https://linkedin.com/in/wissem-elarbi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:wissem.elarbi@esprit.tn" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://twitter.com/wissem-elarbi" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://kaggle.com/wissemelarbi" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-%230F4B89.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+  </a>
 </p>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wissemelarbi11&show_icons=true&locale=en&layout=compact" alt="wissemelarbi11" /></p>
+### 🛠️ **Technologies & Tools**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wissemelarbi11&show_icons=true&locale=en" alt="wissemelarbi11" /></p>
+#### **📊 Business Intelligence & Data Analytics**
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40" alt="Power BI" />
+  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="40" alt="Tableau" />
+  <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" width="40" alt="Hive" />
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" alt="Elasticsearch" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL" />
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" alt="Grafana" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wissemelarbi11&" alt="wissemelarbi11" /></p>
+#### **⚙️ ETL & Data Processing**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" alt="Pandas" />
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40" alt="Spark" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" alt="Azure" />
+</p>
+
+#### **🌐 Frontend Development**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React" />
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" alt="Angular" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3" />
+</p>
+
+---
+
+### 📈 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wissemelarbi11&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wissemelarbi11&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wissemelarbi11&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### ✨ **Fun Fact**
+*"Good design isn’t just about visuals; it’s about creating meaningful experiences."*
+
+---
+
