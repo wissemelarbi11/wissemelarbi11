@@ -55,7 +55,10 @@
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40" alt="Spark" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker" />
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" alt="Azure" />
+  <img src="https://www.vectorlogo.zone/logos/talend/talend-icon.svg" width="40" alt="Talend" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_SQL_Server_Integration_Services_Logo.png" width="40" alt="SSIS" />
 </p>
+
 
 #### **🌐 Frontend Development**
 <p align="center">
