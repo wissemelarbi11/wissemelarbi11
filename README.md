@@ -8,7 +8,7 @@
 ---
 
 - 💬 **Ask me about:** Business Intelligence, Data Engineering, and Web Development.  
-- 📫 **Contact me:** [wissem.elarbi@esprit.tn](mailto:wissem.elarbi@esprit.tn).  
+- 📫 **Contact me:** [wissem.arbi99@gmail.com](mailto:wissem.arbi99@gmail.com).  
 - ⚡ **Fun fact:** I believe in efficiency—lazy until it’s time to work, then 100% focus.  
 
 ---
